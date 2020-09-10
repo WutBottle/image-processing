@@ -476,6 +476,11 @@ amdefine@>=0.0.4:
   resolved "https://registry.npm.taobao.org/amdefine/download/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
   integrity sha1-SlKCrBZHKek2Gbz9OtFR+BfOkfU=
 
+and@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.npm.taobao.org/and/download/and-0.0.3.tgz#b2f23d6f360dd77109eeaf767054109e4a4c6f8e"
+  integrity sha1-svI9bzYN13EJ7q92cFQQnkpMb44=
+
 ansi-colors@^3.0.0:
   version "3.2.4"
   resolved "https://registry.npm.taobao.org/ansi-colors/download/ansi-colors-3.2.4.tgz?cache=0&sync_timestamp=1593529711167&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fansi-colors%2Fdownload%2Fansi-colors-3.2.4.tgz#e3a3da4bfbae6c86a9c285625de124a234026fbf"
@@ -5678,6 +5683,21 @@ terser@^4.1.2, terser@^4.6.3:
     commander "^2.20.0"
     source-map "~0.6.1"
     source-map-support "~0.5.12"
+
+three-orbitcontrols@^2.110.3:
+  version "2.110.3"
+  resolved "https://registry.npm.taobao.org/three-orbitcontrols/download/three-orbitcontrols-2.110.3.tgz#ca9c91d5ec2f4731a1140acf2ff0281e15988edf"
+  integrity sha1-ypyR1ewvRzGhFArPL/AoHhWYjt8=
+
+three-stl-loader@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.npm.taobao.org/three-stl-loader/download/three-stl-loader-1.0.6.tgz#b66240f819300eee88928251937587c3fb4262c1"
+  integrity sha1-tmJA+BkwDu6IkoJRk3WHw/tCYsE=
+
+three@^0.120.1:
+  version "0.120.1"
+  resolved "https://registry.npm.taobao.org/three/download/three-0.120.1.tgz#dbd8894f8ab87c109f1602933e7c740c98137377"
+  integrity sha1-29iJT4q4fBCfFgKTPnx0DJgTc3c=
 
 through2@^2.0.0:
   version "2.0.5"

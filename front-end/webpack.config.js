@@ -41,7 +41,7 @@ const config = {
       {
         test: /\.css$/,
         use: ['vue-style-loader', 'css-loader']
-      }
+      },
     ]
   },
   plugins: [
@@ -66,6 +66,7 @@ const config = {
       '@components': path.resolve(__dirname, 'src/components'),
       '@images': path.resolve(__dirname, 'src/assets/images'),
       '@styles': path.resolve(__dirname, 'src/assets/styles'),
+      '@model': path.resolve(__dirname, 'src/model'),
     },
     //寻找文件后缀
     extensions: ['.js', '.css', '.vue', '.scss']
