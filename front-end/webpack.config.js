@@ -63,10 +63,10 @@ const config = {
     alias: {
       '@': path.resolve(__dirname, 'src'),
       '@api': path.resolve(__dirname, 'src/api'),
+      '@pages': path.resolve(__dirname, 'src/pages'),
       '@components': path.resolve(__dirname, 'src/components'),
       '@images': path.resolve(__dirname, 'src/assets/images'),
       '@styles': path.resolve(__dirname, 'src/assets/styles'),
-      '@model': path.resolve(__dirname, 'src/model'),
     },
     //寻找文件后缀
     extensions: ['.js', '.css', '.vue', '.scss']
